@@ -17,7 +17,7 @@ body {
         'header header header'
         'notice1 notice1 notice2'
         'footer footer footer';
-    grid-template-rows: 6% 32% 45%;
+    grid-template-rows: 6% 35% 45%;
     grid-template-columns: 30% 20% 24%;
 }
 
@@ -46,7 +46,7 @@ li:hover {
     font-family: 'Inter', sans-serif;
     width: 40%;
     margin-top: 2%;
-    font-size: 55px;
+    font-size: 48px;
     float: left;
 }
 
