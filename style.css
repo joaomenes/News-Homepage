@@ -127,7 +127,6 @@ h1:hover {
 
 #footer img {
     height: 20%;
-    padding: 1%;
 }
 
 #footer h2 {
@@ -205,7 +204,7 @@ h1:hover {
         font-size: 20px;
     }
 
-    #footer h2{
+    #footer h2 {
         display: none;
     }
 
@@ -213,8 +212,8 @@ h1:hover {
         width: 28%;
     }
 
-    #footer div img{
-      display: inline-block;
+    #footer div img {
+        display: inline-block;
     }
-    
+
 }
