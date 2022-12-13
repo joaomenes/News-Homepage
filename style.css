@@ -17,8 +17,8 @@ body {
         'header header header'
         'notice1 notice1 notice2'
         'footer footer footer';
-    grid-template-rows: 6% 35% 45%;
-    grid-template-columns: 30% 20% 24%;
+    grid-template-rows: 80px 490px 530px;
+    grid-template-columns: 330px 220px 250px;
 }
 
 li {
@@ -126,7 +126,11 @@ h1:hover {
 }
 
 #footer img {
-    height: 20%;
+    height: 25%;
+}
+
+#footer div img {
+    display: inline-block;
 }
 
 #footer h2 {
@@ -135,7 +139,7 @@ h1:hover {
 
 #footer h1 {
     font-family: 'Inter', sans-serif;
-    font-size: 16px;
+    font-size: 13px;
 }
 
 #footer p {
@@ -215,5 +219,4 @@ h1:hover {
     #footer div img {
         display: inline-block;
     }
-
 }
