@@ -1,6 +1,6 @@
 # <a href="https://joaomenes.github.io/News-Homepage/">News Homepage</a>
-![image](https://user-images.githubusercontent.com/76728281/206819605-88e41ab3-90b0-4eff-bab3-348a871d38d1.png)
-![image](https://user-images.githubusercontent.com/76728281/206819634-39ee03e7-7ccf-4318-89d1-85815955bcd7.png)
-![image](https://user-images.githubusercontent.com/76728281/206819647-370344b7-d6e5-48d1-80f7-baaad0852871.png)
-![mobile](https://user-images.githubusercontent.com/76728281/206819741-a7b35566-aea3-4266-a3dc-2e6503271fbc.png)
-![mobile (1)](https://user-images.githubusercontent.com/76728281/206819757-577d2671-c0ad-4ce1-a92b-482d5b9bd6b6.png)
+
+![site](https://user-images.githubusercontent.com/76728281/207344349-6a3e5470-ea95-46ad-8269-db7c1761fe10.jpg)
+![site2](https://user-images.githubusercontent.com/76728281/207344378-9f73f18e-ed4f-4420-b5c9-574cf7761d7e.jpg)
+![mobile](https://user-images.githubusercontent.com/76728281/207344448-7e77a8aa-e685-4d6f-b61c-a12990ac52d1.png)
+![mobile (1)](https://user-images.githubusercontent.com/76728281/207344469-d49021f5-b138-4f1f-a2e4-c55f964d827b.png)
