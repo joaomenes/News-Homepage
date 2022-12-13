@@ -1,4 +1,4 @@
-# <a href="https://joaomenes.github.io/News-Homepage/">News Homepage</a>
+# <a href="">News Homepage</a>
 
 ![site](https://user-images.githubusercontent.com/76728281/207346127-86cc31c3-8c46-44d9-8d33-fe6f49a09724.jpg)
 ![site2](https://user-images.githubusercontent.com/76728281/207346183-548a1828-345e-4736-8082-85ff056ffa1d.jpg)
